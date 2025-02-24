@@ -1,0 +1,24 @@
+body{
+    background: black;
+    color: white;
+}
+
+strong{
+    color: #22D4FD;
+}
+
+P strong{
+     color: greenyellow;
+}
+
+.primeiro {
+     color: #22D4FD;
+     border: 0.5px solid #22D4FD;
+     padding: 0.2px;
+}
+
+.segundo {
+    color: white;
+    border: 0.5px solid grey;
+    padding: 0.2px;
+}
